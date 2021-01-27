@@ -1,6 +1,5 @@
 %======================================================================
 % Github: https://github.com/thjsimmons
-% Date: 1/3/2021
 %======================================================================
 
 % Computes the phase difference between waveforms x1(t), x2(t) 
