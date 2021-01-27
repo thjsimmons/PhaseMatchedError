@@ -1,6 +1,5 @@
 %======================================================================
 % Github: https://github.com/thjsimmons
-% Date: 1/3/2021
 %======================================================================
 
 % Returns upper half of DFT, frequencies are scaled to (Hz)
